@@ -1,0 +1,12 @@
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\bin\Debug\CorCrypt.exe.config
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\bin\Debug\CorCrypt.exe
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\bin\Debug\CorCrypt.pdb
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\bin\Debug\SimpleIRCLib.dll
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.Form1.resources
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.Properties.Resources.resources
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\IRC Client.csproj.GenerateResource.Cache
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.exe
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.pdb
+C:\Users\KR0SIV\Documents\Visual Studio 2015\Projects\IRC Client\Client\bin\Debug\CorCrypt.exe.config
+C:\Users\KR0SIV\Documents\Visual Studio 2015\Projects\IRC Client\Client\obj\Debug\CorCrypt.exe
+C:\Users\KR0SIV\Documents\Visual Studio 2015\Projects\IRC Client\Client\obj\Debug\CorCrypt.pdb

@@ -1,0 +1,10 @@
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\bin\Debug\CorCrypt.exe.config
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.csprojResolveAssemblyReference.cache
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.Form1.resources
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.Properties.Resources.resources
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.csproj.GenerateResource.Cache
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\bin\Debug\CorCrypt.exe
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\bin\Debug\CorCrypt.pdb
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\bin\Debug\SimpleIRCLib.dll
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.exe
+c:\users\kr0siv\documents\visual studio 2015\Projects\CorCrypt\CorCrypt\obj\Debug\CorCrypt.pdb
